@@ -1,4 +1,6 @@
-
+# 我的接口自动化测试项目
+技术栈：Python + Pytest + requests + Allure + Mysql + jsonschema
+本项目基于 PytestAutoApi进行二次开发，用于电商系统接口自动化测试。
 ## 框架介绍
 
 本框架主要是基于 Python + pytest + allure + log + yaml + mysql + redis + 钉钉通知 + Jenkins 实现的接口自动化框架。
